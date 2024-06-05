@@ -5,4 +5,4 @@ Language - Java
 
 How to run the application:-
 
-Only run the Main Class File ! ( src/edu/depaul/Main.java )
+as the application is console based, run only the Main Class File ! ( src/edu/depaul/Main.java )
